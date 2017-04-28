@@ -60,3 +60,5 @@ npm run dev:start
 Begin by taking a look at what is in the `src/server.js` file. We are using some new ES6 syntax to create our server.
 
 Since we are using ES6 syntax, we will need to use Babel to transpile our code. We are using webpack to transpile our code and bundle all of it into the `dist` folder.
+
+**We will be discussing Webpack and it's configuration at another time, so for now, go ahead and use the files included.**
